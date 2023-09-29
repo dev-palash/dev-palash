@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node Js, Django**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/dev-palash](https://www.linkedin.com/in/gpalash)
+- 📝 I regularly write articles on [/gpalash](https://www.linkedin.com/in/gpalash)
 
 - 💬 Ask me about **Angular, Javascript**
 
